@@ -11,3 +11,9 @@ Activate venv
 ```
 source ./venv/bin/activate
 ```
+
+Submodule setup 
+```
+git submodule init
+git submodule update
+```
