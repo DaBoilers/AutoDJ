@@ -1,0 +1,3 @@
+[submodule "AutoDJ-FrontEnd"]
+	path = AutoDJ-FrontEnd
+	url = https://github.com/DaBoilers/AutoDJ-FrontEnd.git
